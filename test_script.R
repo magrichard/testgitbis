@@ -1,5 +1,5 @@
 #test
 
-print("coucou!")
+print("happy R users!")
 
 print("kuku!")
